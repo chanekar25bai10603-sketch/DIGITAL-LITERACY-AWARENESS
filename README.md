@@ -22,7 +22,7 @@ Created an infographic using Canva covering:
 - Safe internet practices
 - Professional online presence
 
-📁 Folder: ![Digital Literacy Infographic](task-1-infographic/infographic.png)
+📁 Folder: ![Digital Literacy Infographic](task-1-infographic./infographic..png)
 
 
 
