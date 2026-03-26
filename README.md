@@ -22,7 +22,7 @@ Created an infographic using Canva covering:
 - Safe internet practices
 - Professional online presence
 
-📁 Folder: ![Digital Literacy Infographic](task-1-presentation/infographic.png)
+📁 Folder: ![Digital Literacy Infographic](task-1-infographic/infographic.png)
 
 ---
 
@@ -34,10 +34,10 @@ Created an infographic using Canva covering:
 ![GitHub Profile](task-2-portfolio/github-profile.png)
 
 #### LinkedIn Profile
-![LinkedIn Profile](task-2-portfolio/linkedin-profile.png)
+![LinkedIn Profile](task-2-portfolio/Linkdin-profile.png)
 
 #### HackerRank Profile
-![HackerRank Profile](task-2-portfolio/hackerrank-profile.png)
+![HackerRank Profile](task-2-portfolio/Hackerrank-profile.png)
 
 
 ---
