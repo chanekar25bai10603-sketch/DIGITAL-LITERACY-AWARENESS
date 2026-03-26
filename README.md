@@ -16,7 +16,7 @@ This project is created as part of the Digital Literacy course. It focuses on de
 
  📂 Tasks Summary
 
-###🔹 Task 1: Digital Literacy Infographic
+### Task 1: Digital Literacy Infographic
 Created an infographic using Canva covering:
 - Digital literacy basics
 - Safe internet practices
