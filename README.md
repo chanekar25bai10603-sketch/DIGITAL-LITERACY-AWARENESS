@@ -32,7 +32,7 @@ Created an infographic using Canva covering:
 ![GitHub Profile](task-2-portfolio/github-profile.png)
 
 #### Linkdin Profile
-![LinkedIn Profile](task-2-portfolio/Linkdin-profile.png)
+![Linkdin Profile](task-2-portfolio/Linkdin-profile.png)
 
 #### HackerRank Profile
 ![HackerRank Profile](task-2-portfolio/Hackerrank-profile.png)
@@ -47,8 +47,15 @@ Created an infographic using Canva covering:
 
 🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScAtSnPZpOcTdsdvsy-LZFiPhHypHYW1soDgECucDytTGFwGQ/viewform?usp=publish-editor
 
+#### HackerRank challenge
+![HackerRank challenge](task-3-platforms/hackerrank-challenge.png) 
+
+#### Spreadsheet
+![Spreadsheet](task-3-platforms/linked-spreadsheet.png)
+
 Task 4: Email ettiquete:
--drafted two proffessional emails 
+-Drafted two proffessional emails 
+
 i.Assignment extention request 
 ii. Internship application 
 -created social media DO's and DONT's checklist.
