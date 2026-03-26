@@ -54,7 +54,7 @@ ii. Internship application
 -created social media DO's and DONT's checklist.
 
  🔹 Task 5: Cybercrime Awareness
-- Created a phishing case study
+- Created a Cyberbullying case study
 - Designed a prevention checklist
 
 
