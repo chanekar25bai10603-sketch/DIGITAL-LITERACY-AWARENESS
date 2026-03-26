@@ -60,7 +60,7 @@ i.Assignment extention request
 ii. Internship application 
 -created social media DO's and DONT's checklist.
 
- 🔹 Task 5: Cybercrime Awareness
+ Task 5: Cybercrime Awareness
 - Created a Cyberbullying case study
 - Designed a prevention checklist
 
