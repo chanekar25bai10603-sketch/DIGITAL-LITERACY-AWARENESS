@@ -22,9 +22,7 @@ Created an infographic using Canva covering:
 - Safe internet practices
 - Professional online presence
 
-📁 Folder: ![Digital Literacy Infographic](task-1-infographic/infographic.png)
-
----
+📁 Folder: ![Digital Literacy Infographic](task-1-infographic/infographic.png
 
 
 
@@ -33,14 +31,14 @@ Created an infographic using Canva covering:
 #### GitHub Profile
 ![GitHub Profile](task-2-portfolio/github-profile.png)
 
-#### LinkedIn Profile
+#### Linkdin Profile
 ![LinkedIn Profile](task-2-portfolio/Linkdin-profile.png)
 
 #### HackerRank Profile
 ![HackerRank Profile](task-2-portfolio/Hackerrank-profile.png)
 
 
----
+
 ### 🔹 Task 3: Coding & Collaboration Platforms
 
 #### Google Form (Digital Literacy Awareness Quiz)
