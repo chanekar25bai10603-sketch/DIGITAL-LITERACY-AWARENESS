@@ -1,0 +1,31 @@
+'Stay Safe Online' Prevention Checklist
+
+As a Digital Ambassador, follow these 8 actionable tips to protect yourself and your peers from cyber threats in India.
+
+🛡️ General Cyber Safety
+
+Enable Two-Factor Authentication (2FA): Use 2FA on all social media (Instagram, WhatsApp) and email accounts. Prefer authenticator apps over SMS when possible.
+
+Verify Educational Links: Before clicking on "Scholarship" or "Exam Result" links received via WhatsApp groups, verify the URL. Official Indian government sites always end in .gov.in or .nic.in.
+
+Use Unique Passwords: Avoid using your birthdate or college ID as a password. Use a mix of symbols, numbers, and cases.
+
+Public Wi-Fi Caution: Avoid logging into banking apps or student portals while connected to free campus or cafe Wi-Fi. Use a VPN or your mobile data for sensitive tasks.
+
+Audit App Permissions: Regularly check which apps have access to your camera, microphone, and contacts. Delete "Clean-up" or "Flashlight" apps that request unnecessary permissions.
+
+Report Cyberbullying: If you or a peer are being harassed online, do not delete the evidence. Take screenshots and report the user to the platform immediately.
+
+💸 Financial & UPI Safety (Specific to India)
+
+The PIN Rule: Remember that entering your UPI PIN is ONLY for sending money, never for receiving it. If someone asks you to enter your PIN to get a "refund" or "reward," it is a scam.
+
+Verify UPI IDs: Before hitting 'Send' on any payment, double-check the "Verified Name" that appears in your UPI app to ensure it matches the intended recipient.
+
+🚨 How to Report Cybercrime in India
+
+If you have been a victim of financial fraud or any cybercrime, act immediately:
+
+National Cyber Crime Reporting Portal: Visit [suspicious link removed] to file a formal complaint.
+
+National Helpline Number: Call 1930 (formerly 155260) immediately to report financial fraud. Reporting within the "Golden Hour" (first 2 hours) increases the chances of freezing the stolen funds in the fraudster's account.
