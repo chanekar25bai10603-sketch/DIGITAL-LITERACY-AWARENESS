@@ -2,6 +2,7 @@
 
 👩‍🎓 Student Details
 - Name: Sanskruti Chanekar
+- REG NO: 25BAI10603
 - Course: CSE0001 – Digital Literacy
 - University: VIT Bhopal
 - Year: 1st Year B.Tech
@@ -15,56 +16,50 @@ This project is created as part of the Digital Literacy course. It focuses on de
 
  📂 Tasks Summary
 
- 🔹 Task 1: Digital Literacy Infographic
+###🔹 Task 1: Digital Literacy Infographic
 Created an infographic using Canva covering:
 - Digital literacy basics
 - Safe internet practices
 - Professional online presence
 
-📁 Folder: task-1-presentation/
+📁 Folder: ![Digital Literacy Infographic](task-1-presentation/infographic.png)
 
 ---
 
- 🔹 Task 2: Digital Portfolio
-Created profiles on:
-- GitHub
-- LinkedIn
-- HackerRank
 
-📁 Folder: task-2-portfolio/
+
+### 🔹 Task 2: Student Digital Portfolio
+
+#### GitHub Profile
+![GitHub Profile](task-2-portfolio/github-profile.png)
+
+#### LinkedIn Profile
+![LinkedIn Profile](task-2-portfolio/linkedin-profile.png)
+
+#### HackerRank Profile
+![HackerRank Profile](task-2-portfolio/hackerrank-profile.png)
+
 
 ---
+### 🔹 Task 3: Coding & Collaboration Platforms
 
-🔹 Task 3: Platforms Exploration
-- Completed a coding challenge on HackerRank
-- Created a Google Form quiz on Digital Literacy
+#### Google Form (Digital Literacy Awareness Quiz)
 
-📁 Folder: task-3-platforms/
+![Google Form](task-3-platforms/google-form-1.png)
 
 🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScAtSnPZpOcTdsdvsy-LZFiPhHypHYW1soDgECucDytTGFwGQ/viewform?usp=publish-editor
 
----
-
- 🔹 Task 4: Email Etiquette
-- Wrote professional emails
-- Created a social media Do’s and Don’ts checklist
-
-📁 Folder: task-4-email-etiquette/
-
----
+Task 4: Email ettiquete:
+-drafted two proffessional emails 
+i.Assignment extention request 
+ii. Internship application 
+-created social media DO's and DONT's checklist.
 
  🔹 Task 5: Cybercrime Awareness
 - Created a phishing case study
 - Designed a prevention checklist
 
-📁 Folder: task-5-cybercrime/
+
 
 ---
 
- 📄 Project Report
-The detailed project report is available in the report/ folder.
-
----
-
- 🚀 Learning Outcome
-This project helped me improve my digital skills, communication, and awareness about cybersecurity. It also taught me how to build a professional online presence.
